@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
 });
 
 
-const statusMessages = ["Looking Over The Minecraft Server For Cheaters, Watching celestsmp.minekeep.gg"];
+const statusMessages = ["Watching Over Celestial SMP"];
 
 
 let currentIndex = 0;
