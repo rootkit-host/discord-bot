@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
 });
 
 
-const statusMessages = ["Watching Over Celestial SMP"];
+const statusMessages = ["Watching Over The Minecraft Server!"];
 
 
 let currentIndex = 0;
