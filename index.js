@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
 });
 
 
-const statusMessages = ["Watching Over The Minecraft Server!"];
+const statusMessages = ["Watching Over The Diamond Dynasty SMP!"];
 
 
 let currentIndex = 0;
